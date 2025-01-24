@@ -1,15 +1,8 @@
 
-matplotlib==3.9.1
-
-
-
-numpy==1.26.4
-
-
-pandas==2.2.2
-
-
-
-streamlit==1.41.1
-
-
+scikit-learn
+joblib
+streamlit
+pandas
+numpy
+# other dependencies
+# Add any other libraries your project uses
