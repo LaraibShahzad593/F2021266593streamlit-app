@@ -1,8 +1,7 @@
-
-scikit-learn
-joblib
-streamlit
-pandas
-numpy
-# other dependencies
-# Add any other libraries your project uses
+streamlit==1.41.1
+pandas==2.2.3
+numpy==2.2.2
+matplotlib==3.9.1
+seaborn==0.12.3
+joblib==1.4.2
+scikit-learn==1.6.0
